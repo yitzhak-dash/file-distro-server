@@ -1,26 +1,25 @@
+# FileDistro -  
 
-#FileDistro -  
+## Table of contents
 
-##Table of contents
+## Motivation
 
-##Motivation
+## Build status
 
-##Build status
+## Code style
 
-##Code style
+## Tech/framework used
 
-##Tech/framework used
+## Code Example
 
-##Code Example
+## Installation
 
-##Installation
+## API Reference
 
-##API Reference
+## Tests
 
-##Tests
+## Contribute
 
-##Contribute
-
-##Credits
+## Credits
 
 
